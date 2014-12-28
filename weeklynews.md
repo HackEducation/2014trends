@@ -1,5 +1,7 @@
 List of weekly news stories:
 
+http://hackeducation.com/2014/12/26/hack-education-weekly-news/
+
 http://hackeducation.com/2014/12/19/news-12-19-2014/
 
 http://hackeducation.com/2014/12/12/news-12-12-2014/
